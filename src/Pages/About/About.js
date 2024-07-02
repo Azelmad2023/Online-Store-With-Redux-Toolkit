@@ -9,12 +9,7 @@ const About = () => {
         <Row>
           <h1 className="py-3 text-center">About Us</h1>
           <p>
-            Diplômé en Développement Web, je cherche un stage pour appliquer mes
-            compétences en développement front-end et back-end. J'ai réalisé des
-            projets notables comme des systèmes de gestion de matériel et de
-            gestion de présence. Je suis motivé à contribuer des solutions
-            innovantes et à acquérir une expérience pratique dans un
-            environnement professionnel dynamique.
+            Graduated in Web Development, I am looking for an internship to apply my skills in front-end and back-end development. I have completed notable projects such as equipment management systems and attendance management. I am motivated to contribute innovative solutions and gain practical experience in a dynamic professional environment.
           </p>
         </Row>
       </Container>
